@@ -16,3 +16,6 @@ Various python files and png files of the raw data file for team stats for 2024 
 
 ## Win % vs. ERA (Earned Run Average)
 ![Win % vs. ERA](win_vs_era_trendline.png)
+
+## Win % vs. WHIP (Walks, Hits, Innings Pitched)
+![Win % vs. WHIP](win_vs_whip_trendline.png)
